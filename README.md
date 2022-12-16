@@ -1,5 +1,6 @@
-# compare-RL
-Project for ESTR3112: Optimization in Reinforcement Learning
+# Compare-RL
+Project for course ESTR3112: Numerical Optimization, 2022 Fall
+Project Title: Optimization in Reinforcement Learning
 
 ## Objective
 We will test Deep Q Learning and Policy Gradients, specifically on the CartPole problem from OpenAI Gym
@@ -11,6 +12,8 @@ We will test Deep Q Learning and Policy Gradients, specifically on the CartPole 
 4. Prepare for the presentation and the report
 
 ## Useful Resources
-- https://www.gymlibrary.dev/environments/classic_control/cart_pole/
-- https://www.tensorflow.org/agents/tutorials/0_intro_rl
-- https://www.tensorflow.org/agents/tutorials/1_dqn_tutorial
+- [Cart Pole - Gym Documentation](https://www.gymlibrary.dev/environments/classic_control/cart_pole/)
+- [Train a Deep Q Network with TF-Agents - TensorFlow](https://www.tensorflow.org/agents/tutorials/0_intro_rl)
+
+## Result
+![](/output.png)
